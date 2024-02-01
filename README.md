@@ -1,4 +1,4 @@
-# Transformando ideias em experiências digitais cativantes 👩‍💻✨
+# Codando o presente, desenhando o futuro 👩‍💻✨
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raquelpaixao)
 
