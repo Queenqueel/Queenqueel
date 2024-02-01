@@ -1,10 +1,10 @@
-# Olá, eu sou Raquel! 👩‍💻
+# Olá! 👩‍💻
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raquelpaixao)
 
 ## Sobre Mim
 
-Olá! Sou Raquel, uma desenvolvedora Front-End e UI/UX designer apaixonada por criar experiências digitais incríveis. Tenho 23 anos e sou formada em Análise e Desenvolvimento de Sistemas.
+Sou Raquel, uma desenvolvedora Front-End e UI/UX designer apaixonada por criar experiências digitais incríveis. Tenho 23 anos e sou formada em Análise e Desenvolvimento de Sistemas.
 
 ---
 
