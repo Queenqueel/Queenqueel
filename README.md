@@ -1,4 +1,4 @@
-# Olá! 👩‍💻
+# Transformando ideias em experiências digitais cativantes 👩‍💻✨
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raquelpaixao)
 
