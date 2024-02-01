@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Tenho 23 anos e sou formada em Análise e Desenvolvimento de Sistemas. Como desenvolvedora Front-End e UI/UX designer, sou apaixonada por criar experiências digitais impactantes.
+Olá! Sou Raquel, uma desenvolvedora Front-End e UI/UX designer apaixonada por criar experiências digitais incríveis. Tenho 23 anos e sou formada em Análise e Desenvolvimento de Sistemas.
 
 ---
 
