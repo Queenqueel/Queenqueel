@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/raquel-dev/raquel-dev/blob/main/assets/header.png" alt="Header">
-</div>
-
 # Olá, eu sou Raquel! 👩‍💻
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raquelpaixao)
@@ -58,6 +54,3 @@ Descrição: Desenvolvi o UI/UX de um app de academia para controle de clientes 
 ![Agile Scrum](https://img.shields.io/badge/-Agile_Scrum-green?style=flat-square)
 ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello&logoColor=white)
 
-<div align="center">
-  <img src="https://github.com/raquel-dev/raquel-dev/blob/main/assets/footer.png" alt="Footer">
-</div>
