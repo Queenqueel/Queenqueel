@@ -27,13 +27,16 @@ Sou Raquel, uma desenvolvedora Front-End e UI/UX designer apaixonada por criar e
   Descrição: Desenvolvi diversos projetos acadêmicos na formação Front-End Master (Dev Samurai), utilizando HTML, CSS, Javascript, SASS, React, TypeScript, Bootstrap, REST API, Node.js e PostgreSQL.
 
 ### 2. Projeto de Delivery de Pizza
-- **Função:** UI/UX Designer
+- **Função:** Front-End Developer e UI/UX Designer
 - **Tecnologias:** 
   ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=Figma&logoColor=white)
   ![Canva](https://img.shields.io/badge/-Canva-blue?style=flat-square&logo=Canva&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=Firebase&logoColor=white)
 
-  Descrição: Contribuí de forma abrangente, criando desde a logo até a interface completa do app. Desenvolvi a logo no Canva e toda a interface no Figma. Para funcionalidade do app, foi utilizado Flutter, Dart e Firebase.
+  Descrição: Contribuí de forma abrangente, criando desde a logo até a interface completa do app. Desenvolvi a logo no Canva e toda a interface no Figma. Além disso, atuei como desenvolvedora, criando algumas telas do aplicativo. Para funcionalidade do app, foi     
+  utilizado Flutter, Dart e Firebase.
 
 ### 3. App de Academia
 - **Função:** UI/UX Designer
@@ -41,7 +44,7 @@ Sou Raquel, uma desenvolvedora Front-End e UI/UX designer apaixonada por criar e
   ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=Figma&logoColor=white)
   ![Canva](https://img.shields.io/badge/-Canva-blue?style=flat-square&logo=Canva&logoColor=white)
 
-Descrição: Desenvolvi o UI/UX de um app de academia para controle de clientes e pagamentos. Criei toda a interface no Figma. Para funcionalidade do app, foi utilizado React, React Native, Expo e Firebase.
+  Descrição: Desenvolvi o UI/UX de um app de academia para controle de clientes e pagamentos. Criei toda a interface no Figma. Para funcionalidade do app, foi utilizado React, React Native, Expo e Firebase.
 
 ---
 
